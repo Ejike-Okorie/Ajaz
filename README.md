@@ -1,3 +1,2 @@
 # Ajaz
-Supermarket
-Supermarket2
+T-Ajaz Supermarket
